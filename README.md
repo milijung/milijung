@@ -1,7 +1,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=FFA756&height=300&section=header&text=Minjung%20Jung&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=DAF7A6&height=300&section=header&text=Minjung%20Jung&fontSize=90)
 
 
 
