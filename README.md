@@ -17,7 +17,7 @@
 * 이화여자대학교 캡스톤디자인프로젝트 포스터세션 우수상 (𝟮𝟬𝟮𝟯.𝟬𝟲)
 ### Project
 * 들키지 않고 염색과 탈색을 반복하는 달리기게임 [검은머리 앤](https://github.com/milijung/Anne-of-BlackHair)의 𝙐𝙣𝙞𝙩𝙮2𝙙 개발 (𝟮𝟬𝟮𝟭.𝟬𝟳 ~ 𝟮𝟬𝟮𝟭.𝟬𝟴)
-* NLP를 이용한 어른을 위한 일기장 서비스 달이 [들어주는 오늘(𝘔𝘰𝘰𝘯 𝘋𝘪𝘢𝘳𝘺)](https://github.com/milijung/MoonDiary)의 𝘼𝙄, 𝘾𝙡𝙞𝙚𝙣𝙩 개발 (𝟮𝟬𝟮𝟮.𝟬𝟳 ~ 𝟮𝟬𝟮𝟮.𝟬𝟴)
+* NLP를 이용한 어른을 위한 일기장 서비스 [달이 들어주는 오늘(𝘔𝘰𝘰𝘯 𝘋𝘪𝘢𝘳𝘺)](https://github.com/milijung/MoonDiary)의 𝘼𝙄, 𝘾𝙡𝙞𝙚𝙣𝙩 개발 (𝟮𝟬𝟮𝟮.𝟬𝟳 ~ 𝟮𝟬𝟮𝟮.𝟬𝟴)
 * 역사 퀴즈 애플리케이션 [경성일기 : 1919](https://github.com/milijung/Gyeongseong-Diary-1919)의 𝘾𝙡𝙞𝙚𝙣𝙩 개발 (𝟮𝟬𝟮𝟮.𝟭𝟬 ~ 𝟮𝟬𝟮𝟮.𝟭𝟭)
 * 지출 흐름을 제대로 기록하는 가계부 서비스 [𝖥𝗅𝗈𝗐](https://github.com/milijung/Flow-Android)의 𝙋𝙈 및 𝘼𝙣𝙙𝙧𝙤𝙞𝙙 개발 (𝟮𝟬𝟮𝟮.𝟭𝟮 ~ 𝟮𝟬𝟮𝟮.𝟬𝟮)
 * 캡스톤디자인프로젝트 [𝖵𝗈𝖼𝗈](https://github.com/go-ggle/voco-android)의 𝘼𝙄, 𝘼𝙣𝙙𝙧𝙤𝙞𝙙 개발 (𝟮𝟬𝟮𝟯.𝟬𝟭 ~ 𝟮𝟬𝟮𝟯.𝟬𝟲)
