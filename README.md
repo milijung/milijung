@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=F7A52D&height=300&section=header&text=Minjung%20Jung&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=CECE5A&height=300&section=header&text=Minjung%20Jung&fontSize=90&fontColor=F9F9F9)
 
 ### History
 * 하나고등학교 졸업 (𝟮𝟬𝟭𝟳.𝟬𝟯 ~ 𝟮𝟬𝟮𝟬.𝟬𝟮)
