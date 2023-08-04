@@ -1,4 +1,4 @@
-# <div align="center"><b>Welcome 👋</b></div>
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=F7A52D&height=300&section=header&text=Minjung%20Jung&fontSize=90&fontColor=FFFFFF)
 
 ### History
 * 하나고등학교 졸업 (𝟮𝟬𝟭𝟳.𝟬𝟯 ~ 𝟮𝟬𝟮𝟬.𝟬𝟮)
