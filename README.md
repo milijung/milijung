@@ -23,6 +23,10 @@
 <br/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
+
+### Contact
+* 𝗕𝗹𝗼𝗴 - https://velog.io/@minjungh63
+* 𝗘𝗺𝗮𝗶𝗹 - minjungzung@gmail.com
 <!--
 **milijung/milijung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
