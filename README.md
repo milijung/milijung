@@ -12,7 +12,7 @@
 ### Project
 * NLP를 이용한 어른을 위한 일기장 서비스 [달이 들어주는 오늘(𝘔𝘰𝘰𝘯 𝘋𝘪𝘢𝘳𝘺)](https://github.com/milijung/MoonDiary)의 𝘼𝙄, 𝙍𝙚𝙖𝙘𝙩-𝙉𝙖𝙩𝙞𝙫𝙚 개발 (𝟮𝟬𝟮𝟮.𝟬𝟳 ~ 𝟮𝟬𝟮𝟮.𝟬𝟴)
 * 역사 퀴즈 애플리케이션 [경성일기 : 1919](https://github.com/milijung/Gyeongseong-Diary-1919)의 𝙍𝙚𝙖𝙘𝙩-𝙉𝙖𝙩𝙞𝙫𝙚 개발 (𝟮𝟬𝟮𝟮.𝟭𝟬 ~ 𝟮𝟬𝟮𝟮.𝟭𝟭)
-* 결제 내역을 묶어서 관리하는 가계부 서비스 [𝖥𝗅𝗈𝗐](https://github.com/milijung/Flow-Android)의 𝙋𝙈 및 𝘼𝙣𝙙𝙧𝙤𝙞𝙙 개발 (𝟮𝟬𝟮𝟮.𝟭𝟮 ~ 𝟮𝟬𝟮𝟮.𝟬𝟮)
+* 입출금 내역을 묶어서 관리하는 가계부 서비스 [𝖥𝗅𝗈𝗐](https://github.com/milijung/Flow-Android)의 𝙋𝙈 및 𝘼𝙣𝙙𝙧𝙤𝙞𝙙 개발 (𝟮𝟬𝟮𝟮.𝟭𝟮 ~ 𝟮𝟬𝟮𝟮.𝟬𝟮)
 * 캡스톤디자인프로젝트 [𝖵𝗈𝖼𝗈](https://github.com/go-ggle/voco-android)의 𝘼𝙄, 𝘼𝙣𝙙𝙧𝙤𝙞𝙙 개발 (𝟮𝟬𝟮𝟯.𝟬𝟭 ~ 𝟮𝟬𝟮𝟯.𝟬𝟲)
 * 성동구청 협업 프로젝트 [성동산책](https://github.com/29sungdong/SungDong-Android)의 𝘼𝙣𝙙𝙧𝙤𝙞𝙙 개발 (𝟮𝟬𝟮𝟰.𝟬𝟭 ~ 𝟮𝟬𝟮𝟰.𝟬𝟲)
 ### Tech Stack
